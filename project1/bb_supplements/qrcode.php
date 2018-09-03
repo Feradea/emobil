@@ -1,0 +1,1 @@
+<a class="btn btn-danger btn-lg" href="http://emobil.feradea.com.212-200-255-33.isp.telekom.rs/app/BarCode.apk">Download &raquo;</a>
